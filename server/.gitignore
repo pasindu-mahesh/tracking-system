@@ -1,0 +1,39 @@
+# Node modules
+node_modules/
+
+# TypeScript build output
+dist/
+build/
+
+# Logs
+logs/
+*.log
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+
+# Environment variables
+.env
+.env.local
+
+# OS & IDE-specific
+.DS_Store
+Thumbs.db
+.vscode/
+.idea/
+
+# Optional: test coverage
+coverage/
+
+# Optional: if using PM2 or similar
+pids/
+*.pid
+*.seed
+*.pid.lock
+
+# Optional: optional debugging and output files
+*.tgz
+*.gz
+
+# Optional: if using TypeScript project references
+tsconfig.tsbuildinfo
